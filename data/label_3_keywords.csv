@@ -1,0 +1,1258 @@
+,LIBRARY,FREQUENCY
+0,python,17
+1,python library,7
+2,corpus,7
+3,tokenizer,6
+4,pip,6
+5,documentation,6
+6,parser,5
+7,language,5
+8,text,4
+9,python code,4
+10,encoding,3
+11,tokenization,3
+12,utf,3
+13,entity recognition ner,3
+14,stanford corenlp,3
+15,twine version,3
+16,latent dirichlet allocation,2
+17,sentencepiece,2
+18,unicode,2
+19,sentence transformer model,2
+20,sentence transformer,2
+21,publication sentence bert sentence embeddings,2
+22,specific sentence embeddings,2
+23,monolingual sentence embeddings,2
+24,perfect sentence embeddings,2
+25,cuda version follow pytorch,2
+26,siamese bert network,2
+27,dense vector representation,2
+28,sentence paragraph,2
+29,textblob,2
+30,levenshtein distance,2
+31,spacy,2
+32,word,2
+33,official python nlp library,2
+34,stanford nlp group,2
+35,google translate,2
+36,sentence segmentation,2
+37,nltk,2
+38,nlp,2
+39,feature,2
+40,pure python,2
+41,selfies,2
+42,python implementation,2
+43,pypi,2
+44,multilingual nlp library,2
+45,hanlp,2
+46,various human language,2
+47,tensorflow x,2
+48,x branch hanlp,2
+49,industry hanlp,2
+50,english chinese,2
+51,deep learning technique,2
+52,pytorch,2
+53,x forum,2
+54,word frequency,2
+55,text data,2
+56,dictionary,2
+57,text file,2
+58,botok,2
+59,tibetan unicode,2
+60,regex module support,1
+61,re module regex,1
+62,regex module,1
+63,regex module release,1
+64,regex implementation,1
+65,module support unicode,1
+66,entire regex,1
+67,fuzzy regex specifies,1
+68,full unicode case folding,1
+69,standard re module,1
+70,topic modelling document indexing,1
+71,unsupervised document analysis,1
+72,documentation gensim,1
+73,information retrieval,1
+74,similarity retrieval,1
+75,fast blas library,1
+76,semantic analysis lsa lsi svd,1
+77,sentencepiece python module,1
+78,train function sentencepiece trainer,1
+79,python wrapper,1
+80,training sentence,1
+81,api,1
+82,pip command,1
+83,output model,1
+84,training,1
+85,reproducible bleu score,1
+86,version sacrebleu support evaluation,1
+87,bleu score,1
+88,multi bleu pl,1
+89,multi bleu detok perl,1
+90,corpus level bleu chrf,1
+91,sacrebleu format text,1
+92,official wmt score,1
+93,language pair sacrebleu,1
+94,compute bleu chrf,1
+95,unicode howto unidecode,1
+96,non ascii input unidecode,1
+97,human readable unicode string,1
+98,unicode data,1
+99,unicode standard encodes letter,1
+100,unicode escape encoding,1
+101,non ascii character,1
+102,unicode character,1
+103,ascii representation,1
+104,tokenizers,1
+105,tokenizer tokenizer tokenizer model bpe,1
+106,tokenizers bert wordpiece,1
+107,tokenizer pre tokenizer,1
+108,tokenizer encode,1
+109,tokenizer tokenizer charbpetokenizer,1
+110,own tokenizer,1
+111,tokenizers charbpetokenizer,1
+112,torchtext datasets,1
+113,torchtextlanguage modeling,1
+114,corresponding torchtext version,1
+115,torchtext library,1
+116,torchtext,1
+117,common nlp datasetstorchtext data,1
+118,basic nlp building blockstorchtext,1
+119,language modeling wikitext,1
+120,http pytorch org,1
+121,basic text processing transformationstorchtext model pre,1
+122,ascii utf utf,1
+123,variant utf,1
+124,western european language iso window greek iso window,1
+125,excellent original chardet port,1
+126,charade python,1
+127,http chardet readthedocs io chardet,1
+128,thai noteour iso,1
+129,hz gb iso,1
+130,python install,1
+131,http textblob readthedocs io python,1
+132,homepage http textblob readthedocs,1
+133,noun phrase extractionpart,1
+134,common natural language processing nlp task,1
+135,speech taggingsentiment analysisclassification,1
+136,more textblob,1
+137,noun phrase extraction sentiment analysis classification translation,1
+138,textual data,1
+139,naive bayes decision tree tokenization splitting text,1
+140,mojibake encoding mix ups,1
+141,ascii space,1
+142,original string ftfy,1
+143,python ftfy,1
+144,html,1
+145,twitter ftfy,1
+146,original text,1
+147,text parser,1
+148,algebraic notation parser,1
+149,python representation,1
+150,type parseresults,1
+151,simple sql parser,1
+152,expression grammar peg,1
+153,simple corba idl parser,1
+154,chemical formula parser,1
+155,sequence labeling evaluation seqeval,1
+156,metric seqeval support,1
+157,seqeval,1
+158,task data seqeval support,1
+159,semantic role labeling,1
+160,entity recognition part,1
+161,evaluation mode,1
+162,perl script conlleval,1
+163,strict mode,1
+164,python framework,1
+165,edit distance levenshtein distance,1
+166,several library pyxdameraulevenshteinpylevpython levenshteinon python,1
+167,parallel approximate string,1
+168,fast implementation,1
+169,hash method,1
+170,hash,1
+171,hashable object,1
+172,string word,1
+173,ipython,1
+174,emoji code,1
+175,emoji http carpedm github io emoji auto,1
+176,unicode consortium py,1
+177,unicode code py,1
+178,english emoji cheat,1
+179,unicode consortium,1
+180,emoji,1
+181,language alias,1
+182,beautifulsoup,1
+183,apache nlp research library,1
+184,deep semantic natural language processing platform allennlp,1
+185,ai allennlp blog allennlp support,1
+186,allennlp library,1
+187,http github com allenai allennlp model,1
+188,allennlp plugins,1
+189,allennlp guide,1
+190,nlp construct,1
+191,subcommand api doc allennlp,1
+192,repository allennlp,1
+193,wikipedia data,1
+194,wiki api,1
+195,http wikipedia readthedocs org,1
+196,wikipedia search wikipedia,1
+197,mediawiki api,1
+198,pywikipediabot,1
+199,mediawiki infrastructure,1
+200,wikipedia,1
+201,mediawiki api wrapper,1
+202,more wikipedia,1
+203,fuzzy string matching,1
+204,fuzzywuzzy kotlinr fuzzywuzzyr r port,1
+205,string matching,1
+206,python levenshtein,1
+207,higherdifflibpython levenshtein optional,1
+208,fuzzywuzz,1
+209,free pascal fuzzywuzzy pa free,1
+210,fuzzysharp net port,1
+211,unicode idna compatibility processing,1
+212,unicode technical standard unicode idna compatibility processing,1
+213,idna specification rfc,1
+214,idna conversion functionality,1
+215,application idna protocol,1
+216,idna codec module conversion,1
+217,current idna specification,1
+218,unicode technical standard unicode idna compatibility processing emoji,1
+219,idna conversion,1
+220,ut data py file idna data,1
+221,fasttext train,1
+222,fasttext model,1
+223,supervised model file fasttext,1
+224,text classifier,1
+225,fasttext,1
+226,fasttext class,1
+227,word representation tutorial,1
+228,python requirementsinstallationusage overviewword representation modeltext classification modelimportant,1
+229,word representation,1
+230,supervised parametersmodel objectfasttext,1
+231,python humanize readthedocs ioif,1
+232,locale abbreviation,1
+233,locale,1
+234,locale file,1
+235,new locale,1
+236,locale name,1
+237,various common humanization utility,1
+238,fuzzy human readable duration minute,1
+239,modest package,1
+240,scispacy model,1
+241,scispacy,1
+242,spacy doc,1
+243,biomedical natural language processing,1
+244,other spacy model,1
+245,spacy component,1
+246,entity span detection model,1
+247,scientific document,1
+248,powerful nlp library flair,1
+249,pytorch nlp framework,1
+250,flair sequence tagging model,1
+251,natural language processing nlp model,1
+252,speech tagging,1
+253,flair embeddings bert embeddings,1
+254,nlp task,1
+255,entity recognition ner part,1
+256,own language model sequence labeling model,1
+257,offline speech recognition engine api support cmu sphinx,1
+258,speech recognition directory documentation,1
+259,speech recognition version software,1
+260,speech recognition init py example,1
+261,python m speech recognition,1
+262,http github com uberi speech recognition readme,1
+263,speech recognition init py version tag,1
+264,google cloud speech api recognizer instance,1
+265,github speechrecognition,1
+266,see speech recognition,1
+267,flashtext algorithm,1
+268,flashtext algorithm documentation,1
+269,flashtext issuessource code http github com vi k,1
+270,keywords,1
+271,word boundary,1
+272,dictionary time,1
+273,aho corasick algorithm,1
+274,sentence,1
+275,find feature,1
+276,java stanford corenlp software,1
+277,clinical english model package,1
+278,various accurate natural language processing tool,1
+279,stanza biomedical model description paper,1
+280,corenlp software,1
+281,biomedical model documentation page,1
+282,haiku training,1
+283,haiku network,1
+284,jax haiku,1
+285,haiku transforms,1
+286,haiku,1
+287,apply haiku,1
+288,haiku haiku,1
+289,network haiku doe,1
+290,http haiku o,1
+291,haiku quickstart installation example user,1
+292,japanese tokenizer,1
+293,japanese tokenization,1
+294,different mecab dictionary available,1
+295,different library fugashi,1
+296,morphological analysis tool wheel,1
+297,mecab documentation,1
+298,mecab binary mecab,1
+299,fugashi,1
+300,dictionary wrapper,1
+301,arbitrary dictionary,1
+302,subword segmentation,1
+303,subword embeddings,1
+304,bpemb,1
+305,bpembinstall bpemb,1
+306,many subwords,1
+307,sentencepiece model,1
+308,large vocabulary size,1
+309,embed method ab abkhazian ace achinese ady adyghe,1
+310,vocabulary size,1
+311,smaller vocabulary size,1
+312,undocumented google translate speech functionality,1
+313,gtts google text,1
+314,speech api write,1
+315,google translate tt,1
+316,http gtts readthedocs org,1
+317,google cloud text,1
+318,google cloud,1
+319,cli tool,1
+320,grammarcan parse,1
+321,import grammar,1
+322,free grammarsfull support,1
+323,parse tree ast,1
+324,free grammar,1
+325,ambiguous grammarsebnf grammarunicode,1
+326,supportedpython compatibleautomatic line column,1
+327,terminal string number name,1
+328,sentence string mosespunctuationnormalizer object,1
+329,string mosessentencesplitter doe,1
+330,punctuation perl tokenizer perl,1
+331,split sentence perl,1
+332,processing perl script,1
+333,corresponding perl script,1
+334,close method,1
+335,background process,1
+336,perl,1
+337,contrast mosesdetokenizer,1
+338,sequence modeling toolkit,1
+339,translation summarization language modeling,1
+340,neural machine translation fomicheva et al wav,1
+341,neural machine translation,1
+342,autoregressive neural machine translation,1
+343,language modeling,1
+344,sequence learning,1
+345,neural language modeling baevski,1
+346,neural machine translation liu et,1
+347,neural story generation fan et al wav vec,1
+348,clean text us ftfy unidecode,1
+349,transliteration transliteration,1
+350,unicodedata normalize,1
+351,clean text,1
+352,unicodedata s,1
+353,processing text,1
+354,available clean text,1
+355,cleantext,1
+356,text representation,1
+357,e unidecode,1
+358,language detection wiki,1
+359,net shuyo language detection library,1
+360,language detection library version,1
+361,langdetect jar tool,1
+362,language detection library,1
+363,top language notelanguage detection algorithm,1
+364,python version langdetect support language,1
+365,language profile,1
+366,first language detection,1
+367,new language profile,1
+368,representative korean sentence segmentation toolkit,1
+369,korean sentence segmentation algorithm,1
+370,korean sentence segmentation,1
+371,sentence segmentation toolkit,1
+372,multiple text batch segmentationkss,1
+373,single text segmentationan example,1
+374,mecab sentence segmentation,1
+375,function segment input text,1
+376,segmentation process,1
+377,independent statistical language modeling,1
+378,nltk english corpus,1
+379,other language,1
+380,case information,1
+381,script,1
+382,recent dataset,1
+383,russian translation hotoo pinyin documentation http pypinyin rtfd,1
+384,github http github com mozillazg python pinyinlicense,1
+385,pinyin,1
+386,pinyin y strict,1
+387,mozillazg rust pinyin rust,1
+388,http pypinyin rtfd,1
+389,phrase pypinyin,1
+390,pypinyin,1
+391,neutral tone,1
+392,project python python u,1
+393,vector storage file format,1
+394,generic key vector store,1
+395,vector embeddings,1
+396,gensim,1
+397,python package,1
+398,full documentation,1
+399,machine learning model,1
+400,domain,1
+401,interactive topic model visualization,1
+402,lda topic model,1
+403,topic model,1
+404,interactive language learning visualization,1
+405,topic modelsnotebook,1
+406,visualization,1
+407,ipython notebook,1
+408,parser predict,1
+409,syntactic semantic parser,1
+410,structured prediction algorithm supar,1
+411,biaffine dependency parser,1
+412,structured prediction,1
+413,treebank language,1
+414,english semantic dependency,1
+415,language model,1
+416,treebanks,1
+417,difflib sequencematcher,1
+418,numerous edit distance library,1
+419,difflib documentation,1
+420,edit distance,1
+421,sequencematcher method distance,1
+422,distance levenshtein distance,1
+423,difflib,1
+424,minimal edit sequence,1
+425,difflib us difflib doe,1
+426,wikipedia api,1
+427,wikipediapagesection,1
+428,class wikipediapage ha property summary,1
+429,wiki page wikipediapage,1
+430,wikipedia documentation,1
+431,property categoriesremoving wikipedialanglinkpage,1
+432,wikipedia object,1
+433,wikipedia page,1
+434,wikipediapage,1
+435,wikipediaadded support,1
+436,many language uralicnlp,1
+437,uralic language,1
+438,dictionary fast uralicnlp,1
+439,parser documentation uralicnlp,1
+440,other uralic language semur,1
+441,language runa word form,1
+442,uralicapi model info language,1
+443,uralicnlp official java versionthe library,1
+444,nlp library,1
+445,uralic language journal,1
+446,fastest string search algorithm,1
+447,approximate multi pattern string search,1
+448,efficient aho corasick search pyahocorasick,1
+449,fast multi pattern string,1
+450,pyahocorasick python library,1
+451,pure python automaton,1
+452,multiple key string occurrence,1
+453,string index,1
+454,enchant spellchecking library,1
+455,many popular spellchecking package,1
+456,pyenchant enchant,1
+457,ispell aspell,1
+458,enchant library user,1
+459,python language,1
+460,decent spellchecker,1
+461,enchant website,1
+462,enchant website http abiword github io,1
+463,pyenchant github,1
+464,pyonmttok token object,1
+465,pyonmttok token class,1
+466,opennmt tokenizer,1
+467,tokenizer instance,1
+468,pyonmttok tokentype enumeration,1
+469,subword tokenization,1
+470,token object,1
+471,customizable text tokenization library,1
+472,tokenization option,1
+473,unicodecsv,1
+474,dreaded ascii codec,1
+475,csv module doesn t,1
+476,unicode string,1
+477,csv module,1
+478,encode character,1
+479,pypy python,1
+480,bytestream,1
+481,codecs,1
+482,serializer note,1
+483,stemming,1
+484,information retrieval software,1
+485,building search engine,1
+486,search,1
+487,algorithmspystemmer,1
+488,common linguistic base form,1
+489,information retrieval researcher,1
+490,common morphological ending,1
+491,algorithm,1
+492,original algorithm,1
+493,myriad korean nlp engine,1
+494,labyrinthine text konlpy,1
+495,python programming language,1
+496,powerful string processing module,1
+497,complex language,1
+498,web programming,1
+499,meaningful feature,1
+500,data analysis,1
+501,world,1
+502,universal charset encoding detector,1
+503,charset encoding,1
+504,charset detector,1
+505,real first universal charset detector,1
+506,http charset normalizer readthedocs,1
+507,charset encoding extract match,1
+508,specific encoding,1
+509,charset encoding table,1
+510,charset normalizer import,1
+511,chardet accuracy,1
+512,text unidecode perl library,1
+513,better transliteration quality text unidecode support python,1
+514,text unidecode unidecode,1
+515,text unidecode,1
+516,isounidecode unidecode,1
+517,other python port,1
+518,didn t support python,1
+519,basic port,1
+520,gplv,1
+521,gpl,1
+522,spacy nlp system,1
+523,english lemmatization,1
+524,several other popular nlp utility,1
+525,pyinflect lemminflect,1
+526,inflect word,1
+527,dictionary system,1
+528,lemminflect,1
+529,different inflected word,1
+530,first import lemminflect,1
+531,standardized json nlp format,1
+532,python json nlp module,1
+533,json nlp output,1
+534,json nlp converter,1
+535,json nlp,1
+536,system json nlp,1
+537,java json nlp maven module,1
+538,important output nlp pipeline,1
+539,nlp pipeline interface,1
+540,json nlp github repo,1
+541,vader sentiment analysis tool vader sentiment lexicon,1
+542,sentiment analysis tool,1
+543,sentiment reasoner,1
+544,sentiment analysis engine,1
+545,sentiment analysis,1
+546,vader valence,1
+547,linguistic classifier topic text,1
+548,vader github,1
+549,vader github repo,1
+550,audience science research classifier license osi,1
+551,janome japanese python,1
+552,janome,1
+553,japanese morphological analysis engine,1
+554,janome oekaki,1
+555,dictionary statistical model,1
+556,english http mocobeta github,1
+557,general documentation http mocobeta github,1
+558,mecab ipadic,1
+559,ikawaha takuyaa nakagami,1
+560,tokenizer po tagger,1
+561,spacy language pipeline tar ball,1
+562,dependency parser,1
+563,classical chinese text,1
+564,ud kanbun pipeline us mecab,1
+565,japanese user,1
+566,universal dependency udkanbun load,1
+567,first stanfordnlp pipeline,1
+568,training documentation stanfordnlp,1
+569,issue report stanfordnlp support python,1
+570,universal dependency parse,1
+571,java stanford corenlp server,1
+572,morphological feature tagger,1
+573,stanfordnlp,1
+574,selfies string,1
+575,molecular string representation blog,1
+576,selfies decoder,1
+577,attribution selfies,1
+578,default selfies,1
+579,special selfies symbol,1
+580,valid random molecule,1
+581,molecular graph,1
+582,self referencing,1
+583,smile pair encoding smilespe,1
+584,smile string e g chembl,1
+585,selfiesexample,1
+586,basic tokenizers,1
+587,deepsmilesdowbload spe chembl txt,1
+588,spe tokenizer,1
+589,substructure tokenizer,1
+590,chembl data,1
+591,byte pair encoding,1
+592,lucene retrieval,1
+593,sparse retrieval,1
+594,dense retrieval,1
+595,reproducible information retrieval research,1
+596,anserini ir toolkit,1
+597,dense representation retrieval,1
+598,package requirement pyserini,1
+599,cache pyserini index,1
+600,first stage retrieval,1
+601,python toolkit,1
+602,smaller bert model,1
+603,multilingual bert,1
+604,bert model,1
+605,python object bert score,1
+606,automatic evaluation metric,1
+607,bertscore computes precision recall,1
+608,python function bert score score,1
+609,awesome bert fairseq,1
+610,coco captioning dataset,1
+611,bert iclr,1
+612,larger grammar ply,1
+613,ambiguous grammar ply,1
+614,lex,1
+615,ply,1
+616,standard lex,1
+617,yacc,1
+618,extensive error checking,1
+619,empty production precedence rule error recovery,1
+620,implementation,1
+621,hiragana katakana hankaku half,1
+622,jaconv japanese converter,1
+623,h z hankaku zenkakufix bug,1
+624,japanese character,1
+625,kata alphabet thanks kokimameadd function,1
+626,julius hiragana juliusfix bug kana alphabet,1
+627,japanese readme,1
+628,alphabet kata,1
+629,z h zenkaku hankaku,1
+630,kana kana alphabet thanks,1
+631,english word segmentation,1
+632,word corpus,1
+633,word segment api,1
+634,wordsegment,1
+635,wordsegment directory,1
+636,pypiwordsegment,1
+637,natural language corpus data,1
+638,linguistic data consortium,1
+639,filewordsegment documentationwordsegment,1
+640,fast tokenization,1
+641,unsupervised text tokenizer,1
+642,youtokentome outputtype subword,1
+643,string youtokentome,1
+644,youtokentome,1
+645,model class youtokentome,1
+646,youtokentome outputtype i d,1
+647,token,1
+648,pytextrank,1
+649,textrank,1
+650,pytexttank,1
+651,textgraph algorithm,1
+652,python http derwen ai doc ptr tutorial,1
+653,related knowledge graph practice,1
+654,spacy version,1
+655,online documentation,1
+656,transformer protein language model,1
+657,protein language model,1
+658,protein language modeling research,1
+659,single sequence protein language model,1
+660,iclr paper transformer protein language model,1
+661,esmfold structure prediction model,1
+662,esm language model,1
+663,m protein structure,1
+664,protein emb esm,1
+665,esmfold model,1
+666,voice command dragonfly support,1
+667,speech recognition engine dragon,1
+668,static voice command,1
+669,dragonfly usage,1
+670,nuancewindows speech recognition,1
+671,dragonfly,1
+672,dynamic speech element,1
+673,high level language object model,1
+674,powerful python interface,1
+675,callback,1
+676,double metaphone algorithmsas,1
+677,original metaphone algorithm wa,1
+678,double metaphone algorithm,1
+679,original metaphone algorithm,1
+680,metaphone algorithm doe,1
+681,metaphone algorithm,1
+682,double metaphone,1
+683,common double metaphone try,1
+684,phonetic encoding algorithm,1
+685,double metaphones,1
+686,levenshtein python c extension module,1
+687,paypal levenshtein,1
+688,levenshtein,1
+689,gnu,1
+690,code contribution,1
+691,fast computation,1
+692,free software foundation,1
+693,free software,1
+694,http maxbachmann github,1
+695,many time tokenizer,1
+696,many time tokenizer didn t,1
+697,long sentence,1
+698,consecutive sentence,1
+699,single sentence,1
+700,fast rule,1
+701,syntagrus datasets,1
+702,second metric,1
+703,peg parser,1
+704,python code tatsu compile grammar name none kwargs,1
+705,tatsu parse grammar input kwargs,1
+706,peg grammar,1
+707,tatsu grammar grammar object,1
+708,generating grammar model,1
+709,c programming language,1
+710,regular language,1
+711,parser tatsu support,1
+712,sentence alignment toolcopyright rico sennrich sennrich,1
+713,automatic translation,1
+714,sentence alignment,1
+715,other translation direction bleualign,1
+716,bleualign aligner py,1
+717,sourcetranslation txt,1
+718,parallel text,1
+719,article sentence alignment doe,1
+720,bleualign py,1
+721,alignment,1
+722,featureflow,1
+723,feature extraction pipeline,1
+724,document feature,1
+725,entire corpus,1
+726,individual text document,1
+727,sequential streaming data e g audio,1
+728,text normalization function,1
+729,default text unidecode normality,1
+730,normality,1
+731,better text transliteration,1
+732,unicode c library icu,1
+733,diacritic punctuation,1
+734,useful markovify text model,1
+735,markovify text class,1
+736,markovify text model,1
+737,markovify text command,1
+738,markovify newlinetext class,1
+739,markovify text class load,1
+740,long sentence markovify,1
+741,default markovify text,1
+742,v markovify text,1
+743,simple extensible markov chain generator,1
+744,chardet v cchardet v see copying file,1
+745,cchardet,1
+746,universal character encoding detector,1
+747,hungarian iso window,1
+748,cchardet pyx b fc,1
+749,chardet update uchardet,1
+750,utf leutf,1
+751,mac cyrillicibm ibm,1
+752,iso test,1
+753,ability index audio file,1
+754,index audio method,1
+755,available audio file,1
+756,audio file,1
+757,regex search,1
+758,documentationrequirementsinstallationuninstallationdemonice,1
+759,audio file wav format,1
+760,initial searching capability,1
+761,ibm watson,1
+762,iterative parser,1
+763,recursive parser,1
+764,python drop support,1
+765,token stream,1
+766,data structure,1
+767,http form post data,1
+768,new operation type rename rename,1
+769,http doc,1
+770,russian tagsets,1
+771,russian tagsets http github com kmike,1
+772,opencorpora ruscorpora rule anph grammeme,1
+773,opencorpora ruscorpora rule opencorpora ruscorpora conversion,1
+774,opencorpora ruscorpora conversion rule,1
+775,init opencorpora grammeme,1
+776,opencorpora ruscorpora conversion,1
+777,opencorpora ruscorpora rule,1
+778,ud dialog tagset,1
+779,optional word argument conversion rule,1
+780,pyfasttext fasttext,1
+781,pyfasttext use,1
+782,pyfasttext,1
+783,supervised modelswhen fasttext,1
+784,setup py pyfasttext,1
+785,numpy pyfasttext,1
+786,warning pyfasttext,1
+787,model word representation learningtraining,1
+788,wordnumpy ndarraywords,1
+789,fasttext source code,1
+790,python transliterates,1
+791,greekreversed transliteration,1
+792,transliteration function,1
+793,transliteration,1
+794,reversed transliteration,1
+795,directional transliterator,1
+796,georgian textdetect greek textdetect russian cyrillic,1
+797,armenian language pack character range,1
+798,non latin text python,1
+799,importsdetect armenian,1
+800,modern icelandic language,1
+801,icelandic morphology beygingarl,1
+802,icelandic study,1
+803,vocabulary,1
+804,islenska,1
+805,unique word form,1
+806,database,1
+807,slensks,1
+808,python battery,1
+809,various lookup,1
+810,specific arabic language library,1
+811,arabic letter,1
+812,unicode araby py feature,1
+813,arabic letter group,1
+814,arabic char,1
+815,pyarabic araby,1
+816,org pyarabic pyarabic u,1
+817,citationor,1
+818,bibtex formathttps,1
+819,sentence boundary detection pysbd,1
+820,pysbd python sentence boundary disambiguation sbd,1
+821,sentence boundary detection module,1
+822,pysbd,1
+823,pysbd package,1
+824,pragmatic segmenter,1
+825,natural language processing,1
+826,pragmatic segmenter team,1
+827,boundary disambiguation,1
+828,pragmatic sentence,1
+829,icelandic natural language text greynir,1
+830,icelandic language,1
+831,greynir schema,1
+832,greynir,1
+833,licensing greynir,1
+834,more greynir,1
+835,phone greynir,1
+836,icelandic vocabulary,1
+837,natural language,1
+838,b n greynirpackage doe,1
+839,icegrams trigram corpus,1
+840,large trigram library,1
+841,icegrams library,1
+842,icegrams database,1
+843,trigram storage approach,1
+844,new trigram database,1
+845,trigram file,1
+846,icegrams package,1
+847,icegrams,1
+848,trigram,1
+849,abosamoor polyglottokenization language language detection language,1
+850,natural language pipeline,1
+851,polyglot,1
+852,massive multilingual application,1
+853,entity recognition language part,1
+854,pypi polyglot,1
+855,new feature support transfer po tagging support,1
+856,hint language code,1
+857,fix transliteration,1
+858,rapid automatic keyword extraction algorithm,1
+859,automatic keyword extraction,1
+860,independent keyword extraction algorithm,1
+861,python aneesha rake,1
+862,configurable word,1
+863,sentence tokenizers language,1
+864,stopwords,1
+865,python package lingpy,1
+866,import lingpy,1
+867,lingpy,1
+868,python version,1
+869,historical linguistics,1
+870,regular python package,1
+871,computational historical linguistics author version johann mattis list,1
+872,pip version,1
+873,sentence boundary sb disambiguation tool,1
+874,bunkai,1
+875,japanese text,1
+876,python library bunkai python,1
+877,sentence boundary,1
+878,morphological analysis result,1
+879,line break,1
+880,model,1
+881,model model,1
+882,path,1
+883,word frequency database,1
+884,word frequency measure,1
+885,korean word frequency wordfreq,1
+886,frequency dict lang wordlist,1
+887,current word frequency norm,1
+888,frequency order iter wordlist lang wordlist,1
+889,word wordfreq,1
+890,available language wordlist,1
+891,frequency list,1
+892,best sentence segmenter,1
+893,main language syntok,1
+894,tokenization performance,1
+895,syntok tokenizer,1
+896,available python m syntok segmenter,1
+897,module syntok segmenter,1
+898,python m syntok tokenizer,1
+899,tokenizer tokenize method,1
+900,tokenizer class,1
+901,program justext,1
+902,web corpus,1
+903,justext feature,1
+904,natural language processing centre,1
+905,justext paragraph paragraph,1
+906,lexical computing ltd,1
+907,justext,1
+908,linguistic resource,1
+909,command python,1
+910,google translate ajax api,1
+911,official translate api,1
+912,translate google com usesauto language,1
+913,google translate domain,1
+914,translate google com,1
+915,googletrans,1
+916,pull request googletrans,1
+917,translation service,1
+918,google translate attempt,1
+919,python hyphenator,1
+920,hunspell hyphenation dictionary,1
+921,free software gpl lgpl mpl tri licensefor python,1
+922,releasescode issue test http github com kozea pyphencode,1
+923,courtbouillon http www courtbouillon org copyright,1
+924,pure python module,1
+925,many dictionary,1
+926,conduct http www courtbouillon org code,1
+927,cpython,1
+928,textstat,1
+929,sentence sample textstat,1
+930,org pypi textstat,1
+931,grade school level text score,1
+932,non spanish text,1
+933,readability index,1
+934,spanish language,1
+935,english text,1
+936,syllable calculation,1
+937,italian text,1
+938,unicode standard tokenization routine,1
+939,orthography segmentation,1
+940,orthography profile specification,1
+941,segment package,1
+942,unicode cookbook moran,1
+943,profile,1
+944,linear algorithm,1
+945,file edit,1
+946,codeprep api corpus,1
+947,source code corpus,1
+948,codeprep api text module,1
+949,codeprep tool,1
+950,github java corpus,1
+951,dataset codeprep,1
+952,codeprep lib,1
+953,codeprep,1
+954,first par source code,1
+955,multilingual nlp task,1
+956,common python,1
+957,mikatools,1
+958,other library,1
+959,morethe library,1
+960,functionality,1
+961,task,1
+962,wiki,1
+963,easy method,1
+964,tibetan nlp,1
+965,tibetan text,1
+966,d d e mp botok,1
+967,custom dialect pack http user image githubusercontent com,1
+968,rouxngawang trinleymikko,1
+969,logo,1
+970,java ewts converter,1
+971,code,1
+972,library,1
+973,changelog,1
+974,esukhia,1
+975,source dist,1
+976,botok segmentation ambiguity,1
+977,botok segmentation,1
+978,rdrpostagger,1
+979,sdict content,1
+980,sdict,1
+981,tibetan,1
+982,unique tag,1
+983,tibetan sort j,1
+984,sorted list,1
+985,non tibetan string,1
+986,compare method,1
+987,string,1
+988,list,1
+989,python port,1
+990,buddhist digital resource center,1
+991,ablog sphinx extension,1
+992,ablog,1
+993,sphinx extension,1
+994,blogplease,1
+995,sunpy maintainer,1
+996,sunpy,1
+997,personal website project,1
+998,website,1
+999,ahmet bakan,1
+1000,static analysis autocompletion,1
+1001,highlightedfunction signature,1
+1002,r bash typescript,1
+1003,underlined code,1
+1004,autocompletion disable jedi,1
+1005,faster autocompletion,1
+1006,kernel suggestion,1
+1007,language server configuration message,1
+1008,language server example setting,1
+1009,python language server,1
+1010,dutch medical text,1
+1011,dutch medical text telematics,1
+1012,medical text,1
+1013,pattern matching method,1
+1014,health information phi,1
+1015,menger et al de identification,1
+1016,identification method,1
+1017,annotate text,1
+1018,informatics issn,1
+1019,metric py sanitize ml label,1
+1020,metric sanitization,1
+1021,hyphenated word,1
+1022,axis normalization,1
+1023,hyphen,1
+1024,word list,1
+1025,metric metric,1
+1026,large haystack,1
+1027,metric,1
+1028,simple python package,1
+1029,performant many profanity detection library,1
+1030,filter profanity,1
+1031,profanity filter,1
+1032,profanity check work,1
+1033,profanity check,1
+1034,effective meaning profanity check,1
+1035,result profanity check,1
+1036,source profanity check,1
+1037,project profanity check,1
+1038,better profanity,1
+1039,fast html parser,1
+1040,modest backend,1
+1041,lexbor backend,1
+1042,modest sec selectolax lexbor sec selectolax api,1
+1043,overviewmodest introductionmodest benchmarkpython benchmarkanother python,1
+1044,benchmarkmodest engine lgpl,1
+1045,lexbor,1
+1046,lexbor engine,1
+1047,example benchmark py,1
+1048,stanford corenlp project,1
+1049,stanford corenlp server,1
+1050,annotate command line utility,1
+1051,corenlp pipeline,1
+1052,annotation service,1
+1053,test annotator py,1
+1054,annotation provider e g,1
+1055,official java corenlp release,1
+1056,variable corenlp,1
+1057,rtype directive,1
+1058,true document return type,1
+1059,type annotation,1
+1060,regular type annotation,1
+1061,python annotation,1
+1062,type info typehints,1
+1063,sphinx,1
+1064,sphinx event,1
+1065,rtype use,1
+1066,respective type directive,1
+1067,corpuscula support python,1
+1068,corpuscula github repository corpuscula,1
+1069,corpus processing highlight,1
+1070,corpuscula,1
+1071,root directory corpuscula,1
+1072,pypi package,1
+1073,wikipediacorpus dictionaryutilitiesitems databaseyou,1
+1074,corporawrapper,1
+1075,config file rumor,1
+1076,general purpose string distance algorithm,1
+1077,distance string processing,1
+1078,string similarity,1
+1079,optimal string alignment distance,1
+1080,tdebatty java string similaritya library,1
+1081,damerau levenshtein string distance damerau levenshtein,1
+1082,different string similarity,1
+1083,library levenshtein edit distance lcs distance,1
+1084,yetuse java string similarity,1
+1085,string distance,1
+1086,uniprot sequence,1
+1087,uniprot website,1
+1088,uniprot i d organism,1
+1089,actual uniprot,1
+1090,python getsequence,1
+1091,uniprot,1
+1092,protein sequence,1
+1093,uniprot i d,1
+1094,full uniprot i d,1
+1095,computational molecular science python cookiecutter version,1
+1096,first dataset run langumo,1
+1097,language model langumo,1
+1098,langumo documentation,1
+1099,unified corpus building environment,1
+1100,various format langumo help,1
+1101,wikipedia dump file,1
+1102,wikipedia dataset,1
+1103,website langumo,1
+1104,langumo,1
+1105,similarity calculate method,1
+1106,corpus text,1
+1107,similarity,1
+1108,higher relative similarity,1
+1109,input corpus,1
+1110,least k word,1
+1111,austronesian tgl tagalog,1
+1112,turkishest estonianfin finnishhun hungarian,1
+1113,chinese character database,1
+1114,traditional chinese character,1
+1115,character map,1
+1116,command line tool hanzi,1
+1117,chinese university,1
+1118,conversion,1
+1119,hong kong,1
+1120,chinese text processing,1
+1121,validate pinyin syllable word,1
+1122,install zhonread zhon,1
+1123,regular expression patterncc cedict charactersruns,1
+1124,regular expression patternszhuyin character,1
+1125,zhon,1
+1126,cjk character,1
+1127,sentence cjk character,1
+1128,punctuationpinyin syllable word,1
+1129,text summarizationlexrank,1
+1130,text summarization,1
+1131,lexrank algorithm,1
+1132,lexical centrality,1
+1133,dragomir r radev lexrank graph,1
+1134,arbitrary new text,1
+1135,centrality scoring,1
+1136,stopwords dictionary test,1
+1137,translation api,1
+1138,different translation model,1
+1139,model translation quality,1
+1140,art machine translation,1
+1141,translate method,1
+1142,easynmt google colab rest api,1
+1143,suitable opus mt model,1
+1144,source language,1
+1145,art translation quality,1
+1146,source lang,1
+1147,transcript subtitle,1
+1148,actual transcript data youtube,1
+1149,english transcript,1
+1150,youtube api,1
+1151,transcript object,1
+1152,video caption,1
+1153,subtitle support,1
+1154,list transcript,1
+1155,transcriptlist,1
+1156,transcriptlist object,1
+1157,keyword keyphrase extraction,1
+1158,keywords keyphrases,1
+1159,keyword extraction technique,1
+1160,keyphrases,1
+1161,entire document keybert,1
+1162,impressive keyword extraction model paper github repos mmr,1
+1163,bert embeddings,1
+1164,leverage bert embeddings,1
+1165,bert embeddings e g,1
+1166,keyword generation e g,1
+1167,bert extractive summarizer,1
+1168,bert extractive summarizer version,1
+1169,lecture summarizer,1
+1170,summarizer embeddings,1
+1171,main summarizer class,1
+1172,extractive summarization,1
+1173,summarization example,1
+1174,summarization command,1
+1175,us coreference technique,1
+1176,coreference,1
+1177,nlp pipeline,1
+1178,weak supervision skweak,1
+1179,many practical nlp scenario,1
+1180,sequence labelling,1
+1181,annotation,1
+1182,larger corpus,1
+1183,trained spacy pipeline,1
+1184,labelling function,1
+1185,text classification,1
+1186,segtok tokenizer,1
+1187,segtok package,1
+1188,segtok tokenizer match,1
+1189,module segtok segmenter,1
+1190,segtok v code,1
+1191,segtok,1
+1192,word tokenizer,1
+1193,splitting indo,1
+1194,python support,1
+1195,entity recognition ner task,1
+1196,conll english ner data,1
+1197,entity recognition,1
+1198,entity extraction,1
+1199,arbitrary language nerda,1
+1200,ner task nerda,1
+1201,information extraction,1
+1202,ner task,1
+1203,entity identification entity,1
+1204,basic emoji support,1
+1205,simple ascii,1
+1206,available cjkwrap library,1
+1207,cjk text,1
+1208,python module,1
+1209,textwrap,1
+1210,module,1
+1211,better wrapping,1
+1212,several linux unix platform debian freebsd fedora,1
+1213,cmu pronouncing dictionary,1
+1214,dictionary data,1
+1215,cmu,1
+1216,program,1
+1217,rhyme,1
+1218,package,1
+1219,multiple translator,1
+1220,translator app,1
+1221,microsoft translator,1
+1222,many translatorsmulti language supportsupports,1
+1223,onelanguage detectiontext translationfile translationbatch translationnoteyou,1
+1224,available translator,1
+1225,different integrated translator,1
+1226,deep translator package,1
+1227,deep translatoraccess,1
+1228,linguee translatorsupport,1
+1229,clip retrieval backend,1
+1230,query text image,1
+1231,text image embeddings,1
+1232,clip retrieval system,1
+1233,similar text image pair,1
+1234,clip retrieval inference,1
+1235,simple semantic search system,1
+1236,semantic search,1
+1237,image url search,1
+1238,text image,1
+1239,full deepgram api,1
+1240,speech recognition apis,1
+1241,audio transcription,1
+1242,deepgram,1
+1243,http developer deepgram com,1
+1244,deepgram blog,1
+1245,console deepgram com,1
+1246,official python sdk,1
+1247,developer deepgram com query parameter,1
+1248,python project,1
+1249,textblob spacytextblob,1
+1250,spacytextblob,1
+1251,spacy nlp pipeline,1
+1252,textblob sentiment analysis pipeline component,1
+1253,spacy framework,1
+1254,textblob textblob class,1
+1255,textblob library,1
+1256,pypi textblob,1
